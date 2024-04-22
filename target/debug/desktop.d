@@ -1,0 +1,1 @@
+/Users/caseygehling/Documents/Projects/rust_chip8/target/debug/desktop: /Users/caseygehling/Documents/Projects/rust_chip8/chip8_core/src/lib.rs /Users/caseygehling/Documents/Projects/rust_chip8/desktop/build.rs /Users/caseygehling/Documents/Projects/rust_chip8/desktop/src/main.rs
